@@ -148,7 +148,7 @@
     color: rgb(1, 1, 67);
 }
 .article p{
-    padding: 10px;
+    padding: 10px 15px;
     line-height: 15px;
     font-size: 15px;
     text-align: justify;
@@ -317,6 +317,7 @@ footer {
     }
     .article p{
         font-size: 20px;
+        line-height: 20px
         
     }
     
